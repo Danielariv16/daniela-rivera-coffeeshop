@@ -1,0 +1,99 @@
+main{
+    margin: 0%;
+}
+.TitleBox {
+    background-color: #393939;
+   color: white;
+   width: 20%;
+   height: 20%;
+   text-align: center;
+   margin: auto;
+}
+.navBox li a {
+    color: black;
+    text-decoration: none;
+    
+}
+.navBox li a:hover{
+    color: #5BACC3;
+}
+
+h2.nitro{
+    display: inline-block;
+    text-align: center;
+    font-size: 33px;
+
+}
+
+.hero {
+    background-size:cover;
+    background-position: center;
+    height: 700px;
+    width: 100%;
+    margin: 0%;
+    background-image: url("../assets/images/coffee-circle.jpg");
+}
+
+h2,h3,p.price {
+    text-align: center;
+    margin: 0%;
+
+}
+
+ul.typeOfDrinks {
+    background-color: #393939;
+    display: block;
+    color:white;
+    list-style-type: none;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+}
+ul.typeOfDrinks > li {
+    display: inline-block;
+    border-left: 3px solid #5BACC3;
+    padding: 0 0 0 15px;
+    margin-left: 5px;
+}
+
+ul {
+    display: inline-block;
+}
+
+#Pastries, #Hot-Drinks {
+background-color:#FFF0ED;
+padding: 2rem;
+}
+
+#Cold-Drinks {
+    background-color: #F7F7F7;
+    padding: 2rem;
+}
+
+ 
+p.price {
+text-align: center;
+color: #5BACC3;
+
+}
+
+header {
+    background-color: #FFF0ED;
+}
+
+.navBox li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+p {
+    margin: 0%;
+    text-align: center;
+    width: auto;
+    padding: 0rem 25rem;
+}
+
+.categoryHeading {
+    margin-bottom: 3%;
+}
+
